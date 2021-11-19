@@ -4,7 +4,7 @@ Airtable cypress test Assignemnt
 # Download application
 git clone https://github.com/girishnaidu88/Airtable.git
 (OR)
-git clone 
+gh repo clone girishnaidu88/Airtable
 
 # Install dependencies
 node, npm, cypress, @testing-library
