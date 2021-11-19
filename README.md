@@ -2,6 +2,8 @@
 Airtable cypress test Assignemnt
 
 # Download application
+git clone https://github.com/girishnaidu88/Airtable.git
+(OR)
 git clone 
 
 # Install dependencies
